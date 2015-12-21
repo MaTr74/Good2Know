@@ -5,7 +5,7 @@
 
 int main(void)
 {
-    printf("Hello World!\n");
+    printf("Welcome to the land of GitHub!\n");
     return 0;
 }
 
